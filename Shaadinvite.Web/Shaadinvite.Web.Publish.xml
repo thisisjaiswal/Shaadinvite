@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Projects\Shaadinvite\Shaadinvite\Publish2" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Files/pix.gif" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/all.js" publishTime="01/19/2013 12:23:35" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="01/20/2013 12:52:32" />
+    <file relUrl="Files/bride1.png" publishTime="01/19/2013 14:33:12" />
+    <file relUrl="bin/Shaadinvite.Web.pdb" publishTime="01/20/2013 16:26:17" />
+    <file relUrl="Global.asax" publishTime="01/20/2013 00:21:56" />
+    <file relUrl="Files/webfont.js" publishTime="01/19/2013 12:23:35" />
+    <file relUrl="Files/ghodi.gif" publishTime="01/19/2013 14:35:38" />
+    <file relUrl="Files/ga.js" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/images/Ganesh1.png" publishTime="01/20/2013 09:52:00" />
+    <file relUrl="Files/invitation.png" publishTime="01/20/2013 14:17:04" />
+    <file relUrl="Files/widget-0.2.min.js" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/widgets.js" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/Suman.png" publishTime="01/19/2013 16:42:14" />
+    <file relUrl="Files/button.min.js" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/t.gif" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/date.png" publishTime="01/19/2013 17:38:00" />
+    <file relUrl="Files/ip_address.htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/bridefamily.png" publishTime="01/20/2013 09:10:13" />
+    <file relUrl="Files/logo.png" publishTime="01/20/2013 12:04:50" />
+    <file relUrl="Files/load.js" publishTime="01/19/2013 12:23:35" />
+    <file relUrl="Files/groomfamily.png" publishTime="01/20/2013 09:10:40" />
+    <file relUrl="Files/sorry.png" publishTime="01/20/2013 08:29:19" />
+    <file relUrl="Views/Home/Card.aspx" publishTime="01/20/2013 16:09:47" />
+    <file relUrl="Files/font.css" publishTime="01/19/2013 12:45:30" />
+    <file relUrl="Files/logo2.png" publishTime="01/20/2013 12:47:21" />
+    <file relUrl="Files/exotica.png" publishTime="01/20/2013 14:02:07" />
+    <file relUrl="Files/oauth.htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/at.png" publishTime="01/20/2013 14:03:56" />
+    <file relUrl="Files/4d9bf99852.css" publishTime="01/19/2013 23:12:36" />
+    <file relUrl="Files/xd_arbiter(1).htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/48519455c8.css" publishTime="01/20/2013 09:03:29" />
+    <file relUrl="Files/sandeep.png" publishTime="01/19/2013 16:42:05" />
+    <file relUrl="Files/button.css" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/like.htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/favicon.ico" publishTime="01/19/2013 09:55:15" />
+    <file relUrl="Files/tweet_button.1358555536.htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Views/Home/Error.aspx" publishTime="01/20/2013 08:30:18" />
+    <file relUrl="bin/Shaadinvite.Web.dll" publishTime="01/20/2013 16:26:17" />
+    <file relUrl="Files/saved_resource.htm" publishTime="01/19/2013 12:23:36" />
+    <file relUrl="Files/wedding-traditional-300x300.jpg" publishTime="08/08/2012 16:27:38" />
+    <file relUrl="Web.config" publishTime="01/20/2013 08:14:01" />
+    <file relUrl="Files/bridefamily2.png" publishTime="01/19/2013 19:19:51" />
+    <file relUrl="Files/bride2.png" publishTime="01/19/2013 14:33:39" />
+    <file relUrl="Views/Site.Master" publishTime="01/20/2013 08:08:06" />
+    <file relUrl="Files/weds.png" publishTime="01/20/2013 14:59:29" />
+    <file relUrl="Files/on.png" publishTime="01/19/2013 18:51:34" />
+    <file relUrl="Views/Web.config" publishTime="01/20/2013 00:21:56" />
+    <file relUrl="Files/xd_arbiter.htm" publishTime="01/19/2013 12:23:36" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,5 @@
+D:\Projects\Shaadinvite\Shaadinvite\Shaadinvite.Web\bin\Shaadinvite.Web.dll
+D:\Projects\Shaadinvite\Shaadinvite\Shaadinvite.Web\bin\Shaadinvite.Web.pdb
+D:\Projects\Shaadinvite\Shaadinvite\Shaadinvite.Web\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Shaadinvite\Shaadinvite\Shaadinvite.Web\obj\Release\Shaadinvite.Web.dll
+D:\Projects\Shaadinvite\Shaadinvite\Shaadinvite.Web\obj\Release\Shaadinvite.Web.pdb

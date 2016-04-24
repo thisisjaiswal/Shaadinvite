@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" 
+    class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-bgrepeatround no-bgrepeatspace bgsizecover boxsizing cubicbezierrange display-table no-overflowscrolling pointerevents progressbar meter file datauri wf-droidsans-n7-active wf-droidserif-n4-active wf-active input-search input-tel input-url input-email input-date input-time input-number input-range input-color input-autocomplete input-autofocus input-list input-placeholder input-max input-min input-multiple input-pattern input-required input-step video-h264 video-ogg video-webm audio-m4a audio-mp3 audio-ogg audio-wav" style="" id="">
+    <head>
+        <title><asp:ContentPlaceHolder ID="TitleContent"  runat="server" /> </title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="robots" content="noodp">
+		<meta name="keywords" content="">
+		<meta name="description" content="Marriages are made in heaven,But invitations are made on...shaadinvite.in">
+        <link rel="stylesheet" href="../../Files/4d9bf99852.css" media="screen">
+        <script type="text/javascript" async="" src="../../Files/load.js"></script>
+        <script id="facebook-jssdk" src="../../Files/all.js"></script>
+        <script src="../../Files/webfont.js" type="text/javascript" async=""></script>
+        <script type="text/javascript" src="../../Files/48519455c8.css"></script>		
+        <link rel="stylesheet" href="../../Files/font.css">
+	</head>
+							
+	<body class="section-home  level-1 mode-none js-enabled localstorage sessionstorage offlineapplications workers historymanagement mq generatedcontent queryselector webdatabase geolocation" data-twttr-rendered="true"  id="target-selector" 
+    style="">
+		<script type="text/javascript">
+		    $(document.body).removeClassName('js-disabled');
+		    $(document.body).addClassName('js-enabled');
+		</script>
+
+         <asp:ContentPlaceHolder ID="MainContent" runat="server" /> 
+ 
+   
+</body>
+</html>
